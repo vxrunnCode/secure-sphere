@@ -27,7 +27,7 @@ SecureSphere is a Python command-line utility to evaluate password strength, che
 1. **Clone the repository** (or download the files):
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/secure-sphere.git
+    git clone https://github.com/vxrunnCode/secure-sphere.git
     cd secure-sphere
     ```
 
@@ -55,7 +55,7 @@ Run the main program:
 
 ```bash
 python password_tool.py
-
+```
 
 1. Check a single password  
 Choose option `1`
