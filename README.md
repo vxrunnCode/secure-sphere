@@ -54,7 +54,7 @@ SecureSphere is a Python command-line utility to evaluate password strength, che
 Run the main program:
 
 ```bash
-python password_tool.py
+python passwordClassifier.py
 ```
 
 1. Check a single password  
